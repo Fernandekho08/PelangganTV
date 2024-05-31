@@ -1,83 +1,38 @@
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4DVzWzV/20221025-062430.png" tvg-id="TV1.my" group-title="TV Dunia",TV 1 (Malaysia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-id="101"tvg-name="TV1 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",TV1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6cdq0Jq/20221025-062414.png" tvg-id="TV2.my" group-title="TV Dunia",TV 2 (Malaysia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#EXTINF:-1 tvg-id="102"tvg-name="TV2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",TV2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
-#EXTINF:-1 tvg-id="TV6.my" tvg-logo="https://i.postimg.cc/HkXqb4M6/20221025-062337.png" group-title="TV Dunia",TV 6 (Malaysia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTINF:-1 tvg-id="TV3" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-id="RTMK06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/190px-TV6_Logo.jpg" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Q5SXRkZ/20221025-062053.png" tvg-id="DramaSangat.my" group-title="TV Dunia",Drama Sangat (Malaysia)
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-
-#EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-logo="https://i.postimg.cc/QxWwrkfj/20221025-062111.png" group-title="TV Dunia",TV Okey (Malaysia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-
-#EXTINF:-1 tvg-id="NTV7.my" tvg-logo="https://i.postimg.cc/SK4wd27k/20221025-062308.png" group-title="TV Dunia",Didik TV KPM (Malaysia)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
-https://aqfadtv.xyz/live/didiktvkpm/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KY5CHGJL/20221025-062249.png" tvg-id="8TV.my" group-title="TV Dunia",TV 8 (Malaysia)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
-https://aqfadtv.xyz/live/8tv/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3xXqkrM6/20221025-062024.png" tvg-id="TV9.my" group-title="TV Dunia",TV 9 (Malaysia)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-https://aqfadtv.xyz/live/tv9/index.mpd
-
-#EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.postimg.cc/qRNXCQPY/20221026-001629.png" group-title="TV Dunia",Boo HD (Malaysia)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
-https://astro.kutubusuk.workers.dev/dash-wv/linear/2407/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+#EXTINF:-1 tvg-id="148" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",8TV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0Scw92j/20230206-085233.png" group-title="TV Dunia",Astro Citra HD (Malaysia)
-https://astro.kutubusuk.workers.dev/dash-wv/linear/2700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+#EXTINF:-1 tvg-id="149" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",TV9
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdgvjkZf/20230206-085217.png" group-title="TV Dunia",Awesome TV (Malaysia)
-https://astro.kutubusuk.workers.dev/dash-wv/linear/211/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#EXTINF:-1 tvg-id="DIDIKTVKPM" tvg-logo="https://didik.tv/images/logotv2.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)", DIDIK TV KPM
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/salam/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yYG3XdJ/20230206-085159.png" group-title="TV Dunia",Salam HD (Malaysia)
-http://line.premiumpowers.net:80/Manuel/1234567/571276
-https://aqfadtv.xyz/live/unifitv/salam/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/siar/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKyxP5WH/20230206-085144.png" group-title="TV Dunia",Siar (Malaysia)
-https://aqfadtv.xyz/live/unifitv/siar/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/500wX4cw/20230206-085129.png" group-title="TV Dunia",Hypp Sensasi HD (Malaysia)
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5szSnZj/20230206-085113.png" group-title="TV Dunia",Hypp Inspirasi HD (Malaysia)
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63mCRkwF/20230206-085050.png" group-title="TV Dunia",Dunia Sinema HD (Malaysia)
-https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvJ5G5M7/20230206-085027.png" group-title="TV Dunia",Degup (Malaysia)
-https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+#EXTINF:-1 tvg-id="114" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",Al-Hijrah
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
