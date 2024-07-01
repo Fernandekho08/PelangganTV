@@ -3826,6 +3826,20 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 
 
 
+
+========================================================================================================================================================================================================================================================
+
+
+
+
+
+#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="CHANNEL | MOVIES",Warner TV HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/129
+
+
+
+
 ====================================================== RELIGI ========================================================
 
 
@@ -5106,3 +5120,15 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
 https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
+
+
+=========================================== COPA AMERIKA ###=================================================================
+
+
+
+#EXTINF:-1 group-title="EVENT | COPA AMERIKA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR HD 1
+http://xtv.ooo:8080/MansoorWapda/258741/350972
+#EXTINF:-1 group-title="EVENT | COPA AMERIKA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR HD 2
+http://xtv.ooo:8080/owais1/12345/350972
+#EXTINF:-1 group-title="EVENT | COPA AMERIKA" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR HD 3
+http://iptvtree.net:8080/e891d265/89d742c3/162138
