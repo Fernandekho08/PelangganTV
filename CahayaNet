@@ -5311,3 +5311,15 @@ http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 #EXTINF:-1 group-title="⚽AFF U-19⚽" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", (NEW SERVER)
 https://s.id/sctvHD_shareext-xs
 
+====================================== China =============================================
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png" group-title="CHINA",1#
+https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png" group-title="CHINA",2#
+https://video2.51daao.com/btt1/2021/01/20210128/3wDXV6Je/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png" group-title="CHINA",3#
+https://video2.51daao.com/btt1/2021/02/20210224/E61AhMeH/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png" group-title="CHINA",4#
+https://video2.51daao.com/btt1/2021/02/20210224/ymPaAsvE/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png" group-title="CHINA",5#
+https://video2.51daao.com/btt1/2021/02/20210212/zWfTUXZt/index.m3u8
