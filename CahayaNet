@@ -5310,3 +5310,23 @@ http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 
 #EXTINF:-1 group-title="⚽AFF U-19⚽" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", (NEW SERVER)
 https://s.id/sctvHD_shareext-xs
+
+=================================================== adult ===============================================================
+
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png"group-title="CHINA adult",1#
+https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png"group-title="CHINA adult",2#
+https://video2.51daao.com/btt1/2021/01/20210128/3wDXV6Je/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png"group-title="CHINA adult",3#
+https://video2.51daao.com/btt1/2021/02/20210224/E61AhMeH/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png"group-title="CHINA adult",4#
+https://video2.51daao.com/btt1/2021/02/20210224/ymPaAsvE/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png"group-title="CHINA adult",5#
+https://video2.51daao.com/btt1/2021/02/20210212/zWfTUXZt/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png"group-title="CHINA adult",Qç¾¤333546855
+https://video2.51daao.com/btt1/2021/02/20210207/yfA19oxU/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png"group-title="CHINA adult",SWAG61éƒ¨
+https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G2yCb67s/IMG-20210719-143619.png"group-title="CHINA adult",å¤©ç¾Žå‚³åª’29éƒ¨
+https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
