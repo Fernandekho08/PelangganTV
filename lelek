@@ -2717,13 +2717,15 @@ https://flv.intechmedia.net/live/ch108.m3u8
 https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",TV ONE
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne HD
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png" group-title="CHANNEL | INDONESIA", TV ONE HD 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -4903,102 +4905,6 @@ http://210.210.155.35/uq2663/h/h125/live.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=========TAIWAN==============
-
-
-
-
-#EXTINF:0 group-title="CHANNEL | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/--LjxdM2YyhA/Y0KqSAh8OgI/AAAAAAAAB1o/KBYeXNi2tlo2fOAP7ZPVWz_MEikDEsWHACNcBGAsYHQ/s1600/1665313350332554-1.png",FTV General 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/3N0NzTf
-#rtmp://219.80.97.77/sat/tv051
-#http://seb.sason.top/ptv/ftv.php?id=ms
-
-#EXTINF:0 group-title="CHANNEL | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/-6WS4rLOA8_8/Y0KqRNtWYzI/AAAAAAAAB1k/cbAOu9T4qQEnRA6ziEokCy3Ic5cTBw9HACNcBGAsYHQ/s1600/1665313346793424-2.png",民視新聞台
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#https://bit.ly/3WBDek3
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-
-#EXTINF:0 group-title="CHANNEL | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/-LiEzyNt222Q/Y0Ks3H4n-LI/AAAAAAAAB2E/2LVGCVsWgWIqz1iLPY9BSIGuKGsQ9MJbgCNcBGAsYHQ/s1600/1665314009926342-0.png",民視旅遊台 baru
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#https://bit.ly/3oEgAuQ
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:0 group-title="CHANNEL | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/-LiEzyNt222Q/Y0Ks3H4n-LI/AAAAAAAAB2E/2LVGCVsWgWIqz1iLPY9BSIGuKGsQ9MJbgCNcBGAsYHQ/s1600/1665314009926342-0.png",民視旅遊台 lama
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/3oEgAuQ
-
-#EXTINF:0 group-title="CHANNEL | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/-E-kmz6tKxXs/Y0KqQVl3z2I/AAAAAAAAB1g/-f5IQHy6RdowaUKo1AmSFHKFqArnGLQ2QCNcBGAsYHQ/s1600/1665313343346147-3.png",民視台灣台 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-#http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-https://bit.ly/43yht6G
-#http://seb.sason.top/ptv/ftv.php?id=tw
-
-#EXTINF:0 group-title="CHANNEL | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/-ndUV_II6zJw/Y0Kr1KTXjbI/AAAAAAAAB18/6KJdLKT3Xhwx0mmmlADcntXPV2LBJt9wwCNcBGAsYHQ/s1600/1665313746095558-0.png",民視影劇台
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/3qexnoA
-#http://seb.sason.top/ptv/ftv.php?id=yj
-
-#EXTINF:0 group-title="CHANNEL | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/-fT_DknbCMJY/Y0KqTMeQ4TI/AAAAAAAAB1s/XvCA2xlRS6Q-BI49kWPhYjzblh7EntQDACNcBGAsYHQ/s1600/1665313354055381-0.png",民視第一台
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/3WGB9n1
-#http://seb.sason.top/ptv/ftv.php?id=dy
-
-#EXTINF:0 group-title="CHANNEL | TAIWAN" tvg-logo="https://lh3.googleusercontent.com/-_A8mrsj2GbI/Y0KqPb1bZQI/AAAAAAAAB1c/s2kvmEMfPh4_mJEIaRzA5GBq0lyeBmKJQCNcBGAsYHQ/s1600/1665313339495568-4.png",民視綜藝台
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
-https://bit.ly/43doSc7
-#http://seb.sason.top/ptv/ftv.php?id=zy
-
-#EXTINF:-1 tvg-id="6108" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="CHANNEL | TAIWAN",TAIWAN+
-https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-
-================================================ TAIWAN ==============================================================
-
-#EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="CHANNEL | TAIWAN",SET 三立iNews
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-
-#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="CHANNEL | TAIWAN",SET Taiwan (三立臺灣台)
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/SETTV_Metro_Chinnel.png" group-title="CHANNEL | TAIWAN",SET Metro (三立都會台)
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sanlih_E-Television_logo.png" group-title="CHANNEL | TAIWAN", 三立综合
-#EXTINF:-1 group-title="CHANNEL | TAIWAN" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/1284/20221109164645-360518426_jpeg_665_444_65538.jpg/1284",SET Drama (三立戏剧台)
-
-#EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="CHANNEL | TAIWAN",八大综合
-#EXTINF:-1 tvg-id="GTVEntertainment.tw" tvg-logo="" group-title="CHANNEL | TAIWAN",美亚电影
-
-#EXTINF:-1 tvg-id="TVBJade.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/TVB_Jade_Channel.png" group-title="CHANNEL | TAIWAN",TVB Jade (翡翠台)
-
-#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/512px-Phoenix_Chinese.svg.png" group-title="CHANNEL | TAIWAN",Phoenix Chinese (鳳凰衛視中文)
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/512px-Phoenix_InfoNews.svg.png" group-title="CHANNEL | TAIWAN",Phoenix News (鳳凰衛視資訊)
-
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/ttv.jpg" group-title="CHANNEL | TAIWAN",Taiwan News HD 
-#EXTINF:-1 tvg-id="YZM.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/ac/Titv_logo.png" group-title="CHANNEL | TAIWAN",Titv原住民频道
-
-
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="HCHANNEL | TAIWAN",DAAI Tw 
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tw-daai-tv-1508.jpg" group-title="CHANNEL | TAIWAN",DAAI2 Tw 
-
-#EXTINF:-1 group-title="CHANNEL | TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png",RTHK31
-#EXTINF:-1 group-title="CHANNEL | TAIWAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png",RTHK32
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/440px-China_TV_logo_since_19971030.svg.png" group-title="CHANNEL | TAIWAN",CTV 中视 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/CTS_LOGO_3.png" group-title="CHANNEL | TAIWAN",CTS 华视 
-
-
-
 ============================================ PROLIGA =============================================================
 
 PROLIGA
@@ -5063,7 +4969,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg" group-title="CHANNEL | BWF",beIN Sports 3 (Indihome)
+#EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg" group-title="CHANNEL | BWF",SPOTV 2 (Indihome)
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 #EXTINF:-1 group-title="CHANNEL | BWF" tvg-id="sportstars2.id" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg",Sportstars 2
@@ -5153,19 +5059,6 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227892/32
 https://pop5clustera00de07172379a62d6189.hypp.tv:443/PLTV/88888888/224/3221227937/3221227937.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=U0v281lovZMLWzqtXjPtYuOXwQCoIQRk449J%2BBUCcawRjfkMvdAX9TZ5I%2BbsmfrU7%2B8kYXzOcpo3wc%2BwgB1By0rcymHBIhx5oJP4jv2fPK0%3D%3A20230206102855%3AUTC%2C1003663983%2C115.164.187.20%2C20230206102855%2Curn:Huawei:liveTV:XTV57682031%2C1003663983%2C-1%2C0%2C1%2C%2C%2C2%2C593%2C%2C%2C2%2C1343117%2C0%2C248412%2C47562943%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwY6CMBRF_6bLpn10wC660piYTHASGbfmUR6VWKi2QDJ_P6K4vfeemzNGtHTYGRKbPMu0shsAVdu2FlDkYNtMo4RaS5boUQYDzKL33eDK0CzY-bS9SMEFB5BcAquWu71Hty7Lqa8pmuyDnSjOnSXTpJbPmDg6F8nh2IWB_3j8-41-nTCqVjWZF1-5FqoApTQbl7TCdHs27IppG_o7Rmq-g3sBpkWfiN3R3tBRiT2ZYfL-zR1j87T5B0NkEFD0AAAA&tenantId=6001
 
 
-==================================================== ASEAN U-19 ================================================== 
-
-#EXTINF:-1 tvg-id="" group-title="⚽AFF U-19⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png", SCTV 1 ASEAN U-19 (by Fernand)
-http://108.181.123.13:8070/live/e9cd5f24/079fd2c9/162141.ts
-
-#EXTINF:-1 tvg-id="" group-title="⚽AFF U-19⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png", SCTV 2 ASEAN U-19 (by Fernand)
-http://108.181.123.13:8070/live/AmirBilali/76448035/162141.ts
-
-#EXTINF:-1 group-title="⚽AFF U-19⚽" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", SCTV (NEW SERVER)
-http://xtv.ooo:8080/live/83212539/43153928/351030.ts
-
-#EXTINF:-1 group-title="⚽AFF U-19⚽" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/SCTV-1.png", (NEW SERVER)
-https://s.id/sctvHD_shareext-xs
 
 ================================================ PIALA PRESIDEN =========================================================
 
@@ -5211,53 +5104,91 @@ http://xtv.ooo:8080/live/83212539/43153928/351030.ts
 #EXTINF:-1 group-title="EVENT | PIALA PRESIDEN" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png", SCTV 2 1080p
 https://s.id/sctvHD_shareext-xs
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjIyNDI5NDZ9
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN",SCTV (1080p LIVE)
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN", SCTV 1 (1080p)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
+
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN", SCTV 2 (1080p)
+http://iptvtree.net:8080/c4596f70/c3848d92/162141
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="EVENT | PIALA PRESIDEN",SCTV 3 (1080p)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="EVENT | PIALA PRESIDEN",SCTV 4 (1080p)
+http://iptvtree.net:8080/F18819/6eb39c7d/162141
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EVENT | PIALA PRESIDEN",INDOSIAR (1080p)
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN",SCTV (1080p LIVE 2)
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN", INDOSIAR 1 (1080p)
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN", INDOSIAR 2 (1080p)
+http://iptvtree.net:8080/c4596f70/c3848d92/162138
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIyMjQyOTQ2fQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN",INDOSIAR 3 (1080p LIVE 1)
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN",INDOSIAR 4 (1080p LIVE 2)
+http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo" group-title="EVENT | PIALA PRESIDEN",INDOSIAR 5 (1080p)
+http://iptvtree.net:8080/F18819/6eb39c7d/162138
 
 =============================================== OLYMPIC PARIS =================================================
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/0hfcsmB/paris2024.png",EVENT | OLYMPIC PARIS 2024
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",LIVE 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
-https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
-https://mwmpos03.akamaized.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",LIVE 3
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",CH 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
 https://do2ibj89ih8kz.cloudfront.net/out/v1/7942a70dc4a64ed2bceb6b933402ffeb/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",LIVE 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
-https://mwmpos01.akamaized.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",LIVE 5
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",CH 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00c74743daaa4519b2d3d6b6e7a9a89c:87f7e82f78206a846a85bb214e619ed1
 https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",LIVE 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9c25c77ec994a979453d826b0eda5be:d54c0d2c9873abcf9197bb82fd3e8a4a
-https://mwmpos01.akamaized.net/out/v1/c9f101b58cec446096bcedbe379bbf2e/manifest.mpd
-
-#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",LIVE 7 UNIVERSO
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" tvg-id="" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg",CH UNIVERSO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 tvg-id="Eurosport 2 DE.de" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg" group-title="EVENT | OLYMPIC PARIS 2024", LIVE 8 EUROSPORT 2 🇩🇪
+#EXTINF:-1 tvg-id="Eurosport 2 DE.de" tvg-logo="https://i.ibb.co.com/TMjrkDY/Olimpiade.jpg" group-title="EVENT | OLYMPIC PARIS 2024",CH EUROSPORT 2 🇩🇪
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
+
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="991" tvg-id="991" tvg-chno="991" ,Channel 1 Paris 2024 Olympics 🇲🇾 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="992" tvg-id="992" tvg-chno="992" ,Channel 2 Paris 2024 Olympics 🇲🇾 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="993" tvg-id="993" tvg-chno="993" ,Channel 3 Paris 2024 Olympics 🇲🇾 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="994" tvg-id="994" tvg-chno="994" ,Channel 4 Paris 2024 Olympics 🇲🇾 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="995" tvg-id="995" tvg-chno="995" ,Channel 5 Paris 2024 Olympics 🇲🇾 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+
+#EXTINF:-1 group-title="EVENT | OLYMPIC PARIS 2024" ch-number="996" tvg-id="996" tvg-chno="996" ,Channel 6 Paris 2024 Olympics 🇲🇾 
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+
+
+
 
 ################################################ CHANNEL GABUNGAN #######################################################
 
@@ -5275,41 +5206,104 @@ http://iptvtree.net:8080/F18819/6eb39c7d/298550
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANNEL | PROLIGA",MOJI 4 (LIVE)
 http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
 
+
+=========================================================== KUALIFIKASI PIALA DUNIA ===================================================================
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇸🇬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjIyNDI5NDZ9
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV (1080p LIVE)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", SCTV 1 (1080p)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
-
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", SCTV 2 (1080p)
-http://iptvtree.net:8080/c4596f70/c3848d92/162141
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/cDPccnZ/sctv.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV 3 (1080p)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV 4 (1080p)
-http://iptvtree.net:8080/F18819/6eb39c7d/162141
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR (1080p)
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",SCTV (1080p LIVE 2)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", INDOSIAR 1 (1080p)
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024", INDOSIAR 2 (1080p)
-http://iptvtree.net:8080/c4596f70/c3848d92/162138
-
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇸🇬
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOjU5ZmQ6ODRlMjoxMGE6ODNlNyIsImRldmljZVR5cGUiOiJXaW5kb3dzIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzIyMjQyOTQ2fQ
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 3 (1080p LIVE 1)
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 4 (1080p LIVE 2)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
+#EXTINF:-1 tvg-id="Thairath TV HD.th" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇹🇭
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo" group-title="EVENT | PIALA PRESIDEN;⚽AFF U-19⚽;EVENT | OLYMPIC PARIS 2024",INDOSIAR 5 (1080p)
-http://iptvtree.net:8080/F18819/6eb39c7d/162138
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇴🇲
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Sukan RTM" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-id="Okey.my" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇲🇾
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇭🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
+https://rthktv32-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch32)/index.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇮🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
+https://cdnw.telewebion.com/tv3/live/playlist.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇮🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn-bsht1c84.telewebion.com/tv3/live/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/HLS/variant.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇦🇪
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇦🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇰🇼
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇧🇭
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtyuwqa/master.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uycevvnb/master.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtyuwqa/master.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers 🇶🇦
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtyuwqa/master.m3u8
+
+#EXTINF:-1 group-title="KUALIFIKASI WORLD CUP 2026" tvg-id="" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png", World Cup 26™ Qualifiers🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
