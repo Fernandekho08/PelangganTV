@@ -998,16 +998,29 @@ Error 404...
 
 
 ================================================= INDONESIA  ===========================================================
-======================================================================================================================
+================================================== PERTAMA ===========================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wf22Dj4/dollar.png" group-title="MASA PREMIUM BERAKHIR HUB/WA 085264456665", AKTIVASI KEMBALI HUB/WA 085264456665
-https://youtu.be/tl_1unb5Asc?si=9U5cXkL8Jaw9zBno
+https://youtu.be/VVib-BGpDcs?si=8J8Yfa5nVd0n8nPD
 
 ######## CHANNEL | INDONESIA ########
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+
+###########################
+######## MNC GROUP ########
+###########################
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="RCTI.id" tvg-logo="https://iptv.urfan.web.id/logo/rcti.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1037,23 +1050,37 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV 1
+
+#############################
+######## EMTEK GROUP ########
+#############################
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV SD
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="SCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png",SCTV 2
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar 1 (BY FERNAND)
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/xjNQwrH/indosiar.png" group-title="CHANNEL | INDONESIA",Indosiar 1
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar 2
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+
+
+############################
+######## VIVA GROUP ########
+############################
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="ANTV.id" tvg-logo="https://iptv.urfan.web.id/logo/antv.png",ANTV 1
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1065,18 +1092,24 @@ https://flv.intechmedia.net/live/ch108.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png" group-title="CHANNEL | INDONESIA", TV ONE HD 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://yt.urfan.web.id/stream/yNKvkPJl-tg/master.m3u8
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvOne.id" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",tvOne HD
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#############################
+######## TRANS MEDIA ########
+#############################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV (BY FERNAND)
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV SD
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
@@ -1084,7 +1117,11 @@ https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",Trans 7
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-title="CHANNEL | INDONESIA", TRANS 7  HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Trans7.id" tvg-logo="https://iptv.urfan.web.id/logo/trans7.png",TRANS 7 SD
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
@@ -1096,9 +1133,25 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://yt.urfan.web.id/stream/XKueVSGTk2o/master.m3u8
+
+#############################
+######## MEDIA GROUP ########
+#############################
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTINF:-1 tvg-id="MET.ID" group-title="CHANNEL | INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/metrotv.png",Metro TV
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="magnachannel.id" tvg-logo="https://iptv.urfan.web.id/logo/magna.png",Magna Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch111.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
 #EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1108,14 +1161,90 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://yt.urfan.web.id/stream/DOOrIxw5xOw/master.m3u8
 
+
+##############################
+######## NETMEDIATAMA ########
+##############################
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV 1 (BY FERNNAND}
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV 1
 #http://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://bit.ly/3sBQgmR
 
-#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV 2 (BY FERNNAND}
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+
+
+###############################
+######## RAJAWALI CORP ########
+###############################
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch115.m3u8
+
+
+######################
+###### LAIN-LAIN #####
+######################
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="nusantaratv.id" tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png",Nusantara TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="GARUDATV.id" tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png",Garuda TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="IDTV.id" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://yt.urfan.web.id/stream/UCIrj7gqiu8uUfgMitYFzkNg/master.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="daaitv.id" tvg-logo="https://iptv.urfan.web.id/logo/daaitv.png",DAAITV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="tvkesehatan.id" tvg-logo="https://iptv.urfan.web.id/logo/tvkesehatan.png",TV Kesehatan
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Digione.id" tvg-logo="https://iptv.urfan.web.id/logo/digione.png",Digione
+#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="RRINET.id" tvg-logo="https://iptv.urfan.web.id/logo/rrinettv.png",RRI NET
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://rrinet.rri.co.id/hls/live.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="BeritaSatu.id" tvg-logo="https://iptv.urfan.web.id/logo/btv.png",BTV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://yt.urfan.web.id/stream/UCn-Ex0zXXTVElhMr12o0zwA/master.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="IndonesianaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/indonesiana.png",Indonesiana TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="Maxstream.id" tvg-logo="https://iptv.urfan.web.id/logo/maxstream.png",MAXSTREAM
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="seatoday.id" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA TODAY
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch106.m3u8
