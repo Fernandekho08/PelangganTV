@@ -1055,7 +1055,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 ######## EMTEK GROUP ########
 #############################
 
-#EXTINF:-1 tvg-id="" group-title="CHANNEL | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
+#EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV 2
 http://iptvtree.net:8080/everton/7def2e7e/162141
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/sctv.png" group-title="CHANNEL | INDONESIA",SCTV 
