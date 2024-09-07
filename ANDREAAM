@@ -5002,6 +5002,7 @@ Error 404...
 
 #EXTM3U
 
+
 ====================================================== SPORTS =================================================================
 
 
@@ -9549,7 +9550,10 @@ https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8|referer=https://lewblivehdp
 #EXTINF:-1 tvg-name="beIN Sports MENA 4" tvg-logo="https://i.ibb.co/hgSyb8F/wc2026qualifiers.png" group-title="AFC ASIAN QUALIFIERS⚽",beIN Sports MENA 4
 https://webhdrunns.mizhls.ru/lb/premium94/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="AFC ASIAN QUALIFIERS⚽",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
 
 
