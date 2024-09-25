@@ -8304,6 +8304,107 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
+=============================================== SINGAPORE ==============================================
+
+
+
+#EXTINF:-1 tvg-id="Channel NewsAsia HD" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png",CNA 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+#EXTINF:-1 tvg-id="Channel 5 HD" tvg-logo="https://i.ibb.co.com/pj0SBWf/m5.png",Channel 5 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62804d22655c436c9e6414d25f760a3c:42a10ea650a6e559d84f5d5addecf40c
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
+#EXTINF:-1 tvg-id="Channel 8 HD" tvg-logo="https://i.ibb.co.com/VQ1vCzC/m8.png",Channel 8 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=970d551e974d4a82b45213dc07541131:7586b55fcb4807a5b74764e5564d8095
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="Channel U HD" tvg-logo="https://i.ibb.co.com/zZL6Y7V/mchannelu.png",Channel U 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="Suria HD"  tvg-logo="https://i.ibb.co.com/KLfmfq7/msuria.png",Channel Suria 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#EXTINF:-1 tvg-id="Vasantham HD" tvg-logo="https://i.ibb.co.com/YR4kxxX/mvasantham.png",Channel Vasantham 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/17f5SY9/oktolidays.png",oktolidays 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",M LIVE 1 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/58c6bft/mliveplus1.png",M LIVE+ 1 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://tglmp04.akamaized.net/out/v1/88f6a7022fd54e759ee6d09f5117ab62/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9GmV2fF/mlive2.png",M LIVE 2 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb834a4f2fd413a8e50d1a7170701d2:3d6ae85b34e8aac7488c780cea215306
+https://tglmp04.akamaized.net/out/v1/6b351c6bf46a43d998e3f86b69cbce4f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdf0001f693942da990fe81afa3eb0cd:6b8d4bc58615439954851eeda771f417
+https://tglmp02.akamaized.net/out/v1/6e5a888d4bf847a2be521c55f7bfd08c/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/J7nxg09/mwspl01.png",M LIVE SPL 01 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5158194cc4044e699d0df01772f2212:072e611a383a2d1e3d4d8ea19e016a71
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/vHM6GF8/mwspl02.png",M LIVE SPL 02 🇸🇬
+#EXTGRP: CHANNEL | SINGAPORE 🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb6c84db4dc4578bdaa61e965b3424c:b2e6fff24da67654af548fe61aa6bd5a
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
+
+======================================= VIDIO ===========================================
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png" group-title="CHANNEL | INDONESIA 🇮🇩",SCTV Vidio 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://chiva.my.id/sc/avid/play.m3u8?id=204&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://raziva.biz.id/logo/HwXQJXW.png" group-title="CHANNEL | INDONESIA 🇮🇩" ch-number="214" tvg-id="SCTV.id" tvg-name="SCTV", SCTV Live 2
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
 
 
 
@@ -8311,4 +8412,4 @@ https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehd
 
 
 #EXTM3U
-#EXTM3U billed-msg="Expired November 2024"
+#EXTM3U billed-msg="CALISTA-IPTV SEPTEMBER 2024"
