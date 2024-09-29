@@ -8468,7 +8468,20 @@ https://live.kh.malimarcdn.com/live/btv.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
 
+=============================================================================================================================================================
+vidio
 
+#EXTINF:-1 tvg-id="indosiar.id" tvg-name="ID| INDOSIAR HD" tvg-logo="https://so1.360tres.com/t019a56e15b06645682.png" group-title="EVENT | BRI LIGA 1", Timnas U20
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=17904&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://wumbodumbo.serv00.net/red/play.mpd?id=17904&type=dash
+
+Indosiar (My Teve)
+
+#EXTINF:-1 group-title="EVENT | BRI LIGA 1" tvg-id="Indosiar.id" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png",Indosiar HD (MyTeve)
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
 
 
