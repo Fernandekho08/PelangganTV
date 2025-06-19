@@ -79,9 +79,9 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="CHANNEL | INDONESIA 🇮🇩" tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png", TRANS 7
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/k3S01Fh/transtv.png" tvg-id="TransTV.id" tvg-name="ID: Trans TV" group-title="CHANNEL | INDONESIA 🇮🇩",Trans TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
