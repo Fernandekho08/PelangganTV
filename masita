@@ -57,12 +57,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://calista.biz.id/logo/image/trans7.png" group-title="CHANNEL | INDONESIA 🇮🇩", TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://soft-sea-7e07.jasoncreak8.workers.dev/
-https://cdnjkt913.transvision.co.id:1003/live/master/1/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://calista.biz.id/logo/image/transtv.png" tvg-id="TransTV.id" tvg-name="ID: Trans TV" group-title="CHANNEL | INDONESIA 🇮🇩",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
